@@ -1,0 +1,2 @@
+- Sorting visualizer using SDL2 library.
+- Selection Sort, Insertion Sort, Bubble Sort, Merge Sort, Quick Sort and Heap Sort can be visualized.
